@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/agipol/MLFairness-GU-2021/main?filepath=https%3A%2F%2Fgithub.com%2Fagipol%2FMLFairness-GU-2021%2Fblob%2Fmain%2Fclassification%2520example.ipynb)
+
 # MLFairness-GU-2021
 
 # When is AI biased? Measuring fairness in machine learning models
